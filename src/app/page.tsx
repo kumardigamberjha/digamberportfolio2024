@@ -9,7 +9,7 @@ function Index() {
     <div className="relative h-screen w-screen font-sans">
       {/* Background Video */}
       <video 
-        autoPlay="autoplay" 
+        autoPlay 
         muted 
         loop 
         className="absolute top-0 left-0 w-full h-full object-cover"
@@ -29,13 +29,13 @@ function Index() {
           className="space-y-6"
         >
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tight">
-            Hi! I&pos;m Digamber Jha
+            Hi! I&apos;m Digamber Jha
           </h1>
           <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-medium">
             Full-Stack Developer and Computer Vision Enthusiast
           </h2>
           <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-normal">
-            Content Creator @CodingIndia
+            Content Creator &amp;CodingIndia
           </h3>
 
          
