@@ -1,7 +1,7 @@
 "use client";
 import React from 'react';
 import { motion } from 'framer-motion';
-import { About } from './About/page';
+import About from './About/page';
 
 function Index() {
 
