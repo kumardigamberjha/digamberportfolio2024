@@ -29,7 +29,7 @@ function Index() {
           className="space-y-6"
         >
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tight">
-            Hi! I'm Digamber Jha
+            Hi! I&pos;m Digamber Jha
           </h1>
           <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-medium">
             Full-Stack Developer and Computer Vision Enthusiast
